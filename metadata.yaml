@@ -1,0 +1,28 @@
+_repo: Kalkkarokaarme_64600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lange, Kurt
+    alias: Kerfve, Axel
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '52977'
+    url: http://www.gutenberg.org/2009/agents/52977
+    wikipedia: https://sv.wikipedia.org/wiki/Axel_Kerfve
+description: ''
+gutenberg_issued: '2021-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64600'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Adventure stories'
+- !lcc 'PT'
+- GITenberg
+title: Kalkkarokäärme
+url: http://www.gutenberg.org/ebooks/64600
